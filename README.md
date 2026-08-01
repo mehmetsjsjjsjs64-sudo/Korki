@@ -1,2 +1,0 @@
-# Korki
-Bilmem
